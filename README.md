@@ -11,3 +11,16 @@ Graphics Library: Raylib
 Audio: Raylib Sound Module
 
 Development Environment: Windows (MinGW / Visual Studio)
+SnakeGame-main/
+│
+├── Graphics/
+│   └── food.png        # Food texture
+│
+├── Sounds/
+│   ├── eat.mp3         # Sound when food is eaten
+│   └── wall.mp3        # Sound on collision
+│
+├── main.cpp            # Main game logic
+├── main.exe            # Compiled executable (Windows)
+└── README.md
+
